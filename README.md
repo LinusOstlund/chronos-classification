@@ -1,6 +1,6 @@
 # A note on this fork
 
-A quick and dirty experiment to fine-tune Amazon's Chronos Pretrained models on a custom dataset. The code can be found in [classification_demo.ipynb](classification_demo.ipynb). I exported my "chronos-classification" environment to a requirments file.
+A quick and dirty experiment to fine-tune Amazon's Chronos Pretrained models for classification, rather than forecasting. The code can be found in [classification_demo.ipynb](classification_demo.ipynb). I exported my "chronos-classification" environment to a requirments file.
 
 Hopefully this can be useful to someone ❤️
 
